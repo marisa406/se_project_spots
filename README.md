@@ -1,21 +1,40 @@
 # Project 3: Spots
 
-### Overview  
+# Project Name: Spot Photography Site
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## Description
+
+Spots Photography Site is a website designed to showcase user photography. Currently, the site displays a predefined profile and a photographic image. Future plans include expanding the site to full functionality, enabling user interaction and the ability to upload and manage their own photography portfolios.
+
+## Technology Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Responsive Design**
+- **Figma**: Used for designing the layout and user interface.
+- **Image Optimization Tools**: Such as [TinyPNG](https://tinypng.com/) to ensure faster load times.
+
+## Features
+
+- Predefined user profile and image display.
+- Responsive layout optimized for various screen sizes.
+- Structured and scalable design for future enhancements.
+
+## Figma Design
+
+View the design layout for the Spot Photography Site on [Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1).
+
+## Screenshots
+
+Screenshots to be included after first iteration of review to ensure that all major bugs are resolved.
+
+## Future Plans
+
+- Enable user registration and login.
+- Add functionality for uploading, editing, and deleting photos.
+- Implement personalized photo galleries for users.
+
+## Repository
+
+View the source code and contribute to the project on GitHub: [Spot Photography Site GitHub Repository](https://github.com/marisa406/se_project_spots).
