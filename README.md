@@ -2,6 +2,10 @@
 
 # Project Name: Spot Photography Site
 
+# Notes to Review
+
+Still needs deployment to GitHub pages and videos, but want to resolve all comments.
+
 ## Description
 
 Spots Photography Site is a website designed to showcase user photography. Currently, the site displays a predefined profile and a photographic image. Future plans include expanding the site to full functionality, enabling user interaction and the ability to upload and manage their own photography portfolios.

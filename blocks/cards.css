@@ -1,7 +1,9 @@
 .cards {
   padding-top: 20px;
   align-items: center;
-  text-align: center;
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: rgba(33, 33, 33, 0.4);
 }
 
 .cards__list {
