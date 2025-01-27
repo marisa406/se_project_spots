@@ -27,9 +27,13 @@ Spots Photography Site is a website designed to showcase user photography. Curre
 
 View the design layout for the Spot Photography Site on [Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1).
 
-## Screenshots
+## Screenshots and Demo
 
-Screenshots to be included after first iteration of review to ensure that all major bugs are resolved.
+Screenshots of website
+
+![Screenshot of Website](./images/Screenshot.png)
+
+Demo Video @ https://drive.google.com/file/d/1HFTE2lIPQlslG-Dbvwuuh2jnWdDeTivM/view?usp=sharing
 
 ## Future Plans
 
