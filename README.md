@@ -1,10 +1,8 @@
 # Project 3: Spots
 
+Deployed to https://marisa406.github.io/se_project_spots/
+
 # Project Name: Spot Photography Site
-
-# Notes to Review
-
-Still needs deployment to GitHub pages and videos, but want to resolve all comments.
 
 ## Description
 
